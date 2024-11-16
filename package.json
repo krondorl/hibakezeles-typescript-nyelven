@@ -1,0 +1,27 @@
+{
+  "name": "hibakezeles-typescript-nyelven",
+  "version": "1.0.0",
+  "description": "Hibakezelés TypeScript nyelven",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx src/result.ts && npx tsx src/either.ts"
+  },
+  "keywords": [
+    "result type",
+    "either type",
+    "typescript",
+    "error handling",
+    "hibakezelés"
+  ],
+  "author": "Adam Burucs",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "hibakezeles-typescript-nyelven": "file:"
+  }
+}
