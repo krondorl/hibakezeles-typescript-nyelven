@@ -19,6 +19,11 @@ A JS Conf egyik előadása (Artem Kobzar és Dmitry Makhnev) adta az ötletet a 
 
 [Youtube előadás: Unexpected Monad. Is Safe Error Handling Possible in JS/TS? by Artem Kobzar and Dmitry Makhnev](https://www.youtube.com/watch?v=SLOhXSeNKCM)
 
+## Cikkek
+
+- [Huy: TypeScript / Implement Rust-style Result](https://www.huy.rocks/everyday/02-14-2022-typescript-implement-rust-style-result)
+- [Anthony Manning-Franklin: Stop catching errors in TypeScript; Use the Either type to make your code predictable](https://antman-does-software.com/stop-catching-errors-in-typescript-use-the-either-type-to-make-your-code-predictable)
+
 ## Követelmények
 
 Minimum Node.js 20.11.1 ajánlott.
