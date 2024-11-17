@@ -32,7 +32,10 @@ npm install
 ## Futtatás
 
 ```
-npm run start
+npm run start1
+npm run start2
+npm run start3
+npm run start4
 ```
 
 ## Licenc
