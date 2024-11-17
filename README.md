@@ -26,7 +26,7 @@ A JS Conf egyik előadása (Artem Kobzar és Dmitry Makhnev) adta az ötletet a 
 
 ## Követelmények
 
-Minimum Node.js 20.11.1 ajánlott.
+Minimum [Node.js](https://nodejs.org/en) 20.11.1 ajánlott.
 
 ## Telepítés
 
