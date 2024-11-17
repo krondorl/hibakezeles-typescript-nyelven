@@ -5,7 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "npx tsx src/result.ts && npx tsx src/either.ts"
+    "start1": "npx tsx src/example-01.ts",
+    "start2": "npx tsx src/example-02.ts",
+    "start3": "npx tsx src/example-03.ts",
+    "start4": "npx tsx src/example-04.ts"
   },
   "keywords": [
     "result type",
