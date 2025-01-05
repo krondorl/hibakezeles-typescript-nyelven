@@ -8,7 +8,12 @@
     "start1": "npx tsx src/example-01.ts",
     "start2": "npx tsx src/example-02.ts",
     "start3": "npx tsx src/example-03.ts",
-    "start4": "npx tsx src/example-04.ts"
+    "start4": "npx tsx src/example-04.ts",
+    "dream1": "npx tsx src/dream/dream-01.ts",
+    "dream2": "npx tsx src/dream/dream-02.ts",
+    "dream3": "npx tsx src/dream/dream-03.ts",
+    "dream4": "npx tsx src/dream/dream-04.ts",
+    "dream5": "npx tsx src/dream/dream-05.ts"
   },
   "keywords": [
     "result type",
